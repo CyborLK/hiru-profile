@@ -42,6 +42,14 @@ I’m a dedicated Networking student from Sri Lanka, passionate about computer n
 - ⚡ Fun fact: The first-ever message sent over the ARPANET was just “LO” before the system crashed!
 
 <br>
+
+## 🤝 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/hiruni-prabodhya-942b61302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiruni prabodhya" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hiruni.prabodhya.987966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiruni prabodhya" height="30" width="40" /></a>
+</p>
+
 <br>
 
 ## 🏆 GitHub Trophies
@@ -49,7 +57,7 @@ I’m a dedicated Networking student from Sri Lanka, passionate about computer n
 <!--- trophy (start) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=CyborLK&theme=algolia&title=Followers,Stars,Commit,Issues,Repositories,PullRequest&row=1&column=6&margin-h=15&margin-w=5" alt="TROPHY" /> <!--cybor lk kiyala thiyena than walata oyage username eka danna wada karai ethakota-->
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=hiruniprabodhya&theme=algolia&title=Followers,Stars,Commit,Issues,Repositories,PullRequest&row=1&column=6&margin-h=15&margin-w=5" alt="TROPHY" /> <!--cybor lk kiyala thiyena than walata oyage username eka danna wada karai ethakota-->
   </a>
 </div>
 <!--- trophy (end) -->
@@ -66,42 +74,20 @@ I’m a dedicated Networking student from Sri Lanka, passionate about computer n
 
 ## 📊 GitHub Stats
 
-<!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CyborLK&theme=dark&show_icons=true&count_private=true" /> 
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Your Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CyborLK&theme=dark&hide_border=false" /> 
-</td>
+<br>
 
-<td width="50%" align="center">
+| ![Hiruni's github stats](https://github-readme-stats.vercel.app/api?username=hiruniprabodhya&show_icons=true&theme=tokyonight) | ![Hiruni GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiruniprabodhya&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiruniprabodhya&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hiruniprabodhya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyborLK&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<br>
 
 
 <br>
 
 ## 🌟 Featured Projects
 
-[![CareerPulse](https://github-readme-stats.vercel.app/api/pin/?username=cyborlk&repo=CareerPulse-Mobile-App&theme=radical)](https://github.com/CyborLK/CareerPulse-Mobile-App) <!--project repoeka clone karala oyage link eka danna methana-->
+[![Post Office System](https://github-readme-stats.vercel.app/api/pin/?username=cyborlk&repo=CareerPulse-Mobile-App&theme=radical)](https://github.com/CyborLK/CareerPulse-Mobile-App) <!--project repoeka clone karala oyage link eka danna methana-->
 
-
-<!-- Add more featured projects as needed -->
-
-
-
-## 🤝 Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/hiruni-prabodhya-942b61302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadun daluwatta" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hiruni.prabodhya.987966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadun daluwatta" height="30" width="40" /></a>
-</p>
 
 ---
